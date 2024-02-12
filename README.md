@@ -1,1 +1,2 @@
 # Netflix_clone
+Creating a landing page clone for Netflix is a simple process. A Netflix landing page clone is a website or application that is designed to imitate the layout, features, and functionality of Netflix's landing page. It is often used to showcase design skills or to demonstrate how a similar platform can be created. The goal of a Netflix landing page clone is to provide a similar user experience to the original, while potentially offering additional features or customization options.
